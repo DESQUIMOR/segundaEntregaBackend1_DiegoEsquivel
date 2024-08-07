@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Arroz",
+    "description": "Marolio",
+    "price": 200,
+    "thumbnail": "sin imagen",
+    "code": "abc123",
+    "stock": 25
+  },
+  {
+    "id": 1,
+    "title": "prueba",
+    "description": "desc prueba",
+    "price": "1000",
+    "thumbnail": "Sin Imagen",
+    "code": "qwer",
+    "stock": "1"
+  },
+  {
+    "id": 3,
+    "title": "prueba 2",
+    "description": "desc prueba",
+    "price": "1000",
+    "thumbnail": "Sin Imagen",
+    "code": "1234567",
+    "stock": "1"
+  }
+]
